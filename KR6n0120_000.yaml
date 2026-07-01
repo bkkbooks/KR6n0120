@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6n0120/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 取因假設論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T31/T31n1622.xml
+    old_id: T31n1622
+hash: sha256:48c2bd97c726c6525fbb0fc556f512c166857c8db350d95abb0cd9c4e8ba4677

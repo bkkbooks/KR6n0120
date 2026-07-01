@@ -1,0 +1,54 @@
+canonical_identifier: bkk:krp/KR6n0120/v1
+canonical_location: https://kanripo.org/bkk/KR6n0120/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 取因假設論
+  identifiers:
+    alt_id:
+    - T31n1622
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T31/T31n1622.xml
+    old_id: T31n1622
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0120_000.yaml, hash: 'sha256:48c2bd97c726c6525fbb0fc556f512c166857c8db350d95abb0cd9c4e8ba4677'}
+  - {seq: 1, filename: KR6n0120_001.yaml, hash: 'sha256:82e28d93fc3288aa9494f1f53367bdd389af6ddf64e0c8cecc91f1d2e2d8121b'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6n0120_001.markers.yaml, hash: 'sha256:f3b8db7c8b226eff4a664e9e2151a84d7140ef3f70aa7b17b057b33c6c2d5ca9'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6n0120_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3606
+  label: 取因假設論一卷
+  type: juan
+  level: 1
+hash: sha256:2cbf240b9a9b45a855f0705ae52f2c4a3bd44b6bff5ba3f743f44c0ee7c2f7c4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
