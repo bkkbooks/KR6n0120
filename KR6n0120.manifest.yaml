@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6n0120/v1
 canonical_location: https://kanripo.org/bkk/KR6n0120/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 取因假設論
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6n0120_000.yaml, hash: 'sha256:48c2bd97c726c6525fbb0fc556f512c166857c8db350d95abb0cd9c4e8ba4677'}
-  - {seq: 1, filename: KR6n0120_001.yaml, hash: 'sha256:a0f59a6021cd80ec28bad1d896ba3d9f34fd9f72f60b7e9bcf0fbdafba7a50bf'}
+  - {seq: 1, filename: KR6n0120_001.yaml, hash: 'sha256:5ca62e5571a7eef15bf1714ae69d3cb97f079cae3e16a295d07d75c3884a8d46'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6n0120_000.markers.yaml, hash: 'sha256:996fea0ecc845b7a022136abc3bd5d2c5f642c8778bde844c16f6bf0f119c5ed'}
-  - {seq: 1, role: markers, filename: assets/KR6n0120_001.markers.yaml, hash: 'sha256:0257bc4c24713f994da303869213867925c8d54044f0fc3c008ef44a09a5d7a2'}
+  - {seq: 1, role: markers, filename: assets/KR6n0120_001.markers.yaml, hash: 'sha256:0909a52421fcbc563004af32810033f6d8225df41a2f33ee05974eff88d4f38f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 取因假設論一卷
   type: juan
   level: 1
-hash: sha256:02db8bf891424c40cd6bdb59af39ccd83677efb1baafeaa6f2b9b25bf313cec5
+hash: sha256:8ec34a15c7565613c6d21b22db98ddeba6db8701923ef498f060f7a6a6b3fd59
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
